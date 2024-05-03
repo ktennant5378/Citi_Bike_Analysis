@@ -9,6 +9,7 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 **Before You Begin**
+
 Save this assignment to your Tableau Public account rather than GitHub.
 
 If you haven't already, make sure to create a Tableau Public accountLinks to an external site..
@@ -20,6 +21,7 @@ You can load and continue working on the same workbook.
 When you finish your assignment, you will submit the URL to your Tableau Public workbook along with any additional files used in your analysis.
 
 **Files**
+
 You will be selecting files to download from the Citi Bike DataLinks to an external site. source, as described in the following instructions.
 
 NOTE
@@ -28,6 +30,7 @@ Do not download every zip file available, as combining this much data will cause
 Note also that the data structure has changed over time, so it may be simpler for you to select data that uses the same columns across multiple files, preferably from within the past year.
 
 **Instructions**
+
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
 Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
@@ -66,6 +69,7 @@ Ensure your presentation is professional, logical, and visually appealing.
 Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City municipal departments. Your data and analysis need to be presented in a way that is focused, concise, easy to understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough to inform programmatic changes.
 
 **Assessment**
+
 Your final product will be assessed on the following metrics:
 
 Analytic Rigor
@@ -75,6 +79,7 @@ Readability
 Visual Appeal
 
 **Hints**
+
 You may need to get creative with how you combine each of the CSV files. Don't just assume Tableau is the right tool for the job. At this point, you have a wealth of technical skills and research abilities. Dig for an approach that works, and go with it.
 
 Don't assume that the CSV format hasn't changed since 2013. Subtle changes to the formats in any of your columns can interfere with your analysis. Ensure that your data is consistent and clean throughout your analysis. (Hint: Start and End Time change at some point in the history logs).
